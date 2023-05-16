@@ -1,0 +1,4 @@
+easydict==1.9
+tqdm==4.31.1
+opencv_python==4.2.0.34
+tensorboardX==2.0
